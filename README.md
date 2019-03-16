@@ -6,7 +6,7 @@ Projeto padrão do React Native, com alguns pacotes adicionais pré-instalados e
  - [Reactotron](https://github.com/infinitered/reactotron)
  - [ESLint](https://eslint.org/)
  - [Babel-ESLint](https://github.com/babel/babel-eslint)
- - [Babel Plugin Root Import](https://github.com/entwicklerstube/babel-plugin-root-import)
+ - [React Developer Tools](https://github.com/facebook/react-devtools)
 
 > Obs: Todos os pacotes foram adicionados como dependências de desenvolvimento.
 
