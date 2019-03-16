@@ -8,7 +8,7 @@ Projeto padrão do React Native, com alguns pacotes adicionais pré-instalados e
  - [Babel-ESLint](https://github.com/babel/babel-eslint)
  - [Babel Plugin Root Import](https://github.com/entwicklerstube/babel-plugin-root-import)
 
-> Obs: Todos os pacotes foram adicionados apenas como dependências de desenvolvimento.
+> Obs: Todos os pacotes foram adicionados como dependências de desenvolvimento.
 
 ## Configurações Adicionais
 Caso você esteja utilizando o VS Code você vai precisar instalar algumas extensões nele como:
