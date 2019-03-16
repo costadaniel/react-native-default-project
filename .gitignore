@@ -1,0 +1,56 @@
+# OSX
+#
+rndp/.DS_Store
+
+# Xcode
+#
+rndp/build/
+rndp/*.pbxuser
+rndp/!default.pbxuser
+rndp/*.mode1v3
+rndp/!default.mode1v3
+rndp/*.mode2v3
+rndp/!default.mode2v3
+rndp/*.perspectivev3
+rndp/!default.perspectivev3
+rndp/xcuserdata
+rndp/*.xccheckout
+rndp/*.moved-aside
+rndp/DerivedData
+rndp/*.hmap
+rndp/*.ipa
+rndp/*.xcuserstate
+rndp/project.xcworkspace
+
+# Android/IntelliJ
+#
+rndp/build/
+rndp/.idea
+rndp/.gradle
+rndp/local.properties
+rndp/*.iml
+
+# node.js
+#
+rndp/node_modules/
+rndp/npm-debug.log
+rndp/yarn-error.log
+
+# BUCK
+rndp/buck-out/
+rndp/\.buckd/
+rndp/*.keystore
+
+# fastlane
+#
+# It is recommended to not store the screenshots in the git repo. Instead, use fastlane to re-generate the
+# screenshots whenever they are needed.
+# For more information about the recommended setup visit:
+# https://docs.fastlane.tools/best-practices/source-control/
+
+rndp/*/fastlane/report.xml
+rndp/*/fastlane/Preview.html
+rndp/*/fastlane/screenshots
+
+# Bundle artifact
+rndp/*.jsbundle
