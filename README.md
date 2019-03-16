@@ -1,5 +1,5 @@
 # React Native Default Project
-Projeto padrão do React Native, com alguns pacotes adicionais instalados e pré-configurados para facilitar a criação de projetos futuros.
+Projeto padrão do React Native, com alguns pacotes adicionais pré-instalados e configurados para facilitar a criação de projetos futuros.
 
 ## Pacotes Adicionais
  - [EditorConfig](https://editorconfig.org/)
