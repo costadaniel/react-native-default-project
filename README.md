@@ -31,8 +31,8 @@ Após a adição das extensões, você deve alterar o arquivo de configurações
 2.  Copie a pasta "rndp" para onde você quiser
 3.  Renomeie o projeto para o nome desejado editando o _"name"_ e _"displayName"_ no arquivo "app.json"
 4.  Dentro dela dê os seguintes comandos
-    4.1 `yarn`
-    4.2 `react-native eject`
+    4.1. `yarn`
+    4.2. `react-native eject`
 5.  Rode o projeto usando `react-native run-android` ou `react-native run-ios`
 
 > Caso o seu o nome do seu aplicativo tenha espaços, [aqui](https://stackoverflow.com/questions/38548898/how-to-add-space-in-react-native-application-name) tem um breve tutorial de como você pode renomear ele.
