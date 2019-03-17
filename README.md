@@ -35,4 +35,4 @@ Após a adição das extensões, você deve alterar o arquivo de configurações
     1. `react-native eject`
 1.  Rode o projeto usando `react-native run-android` ou `react-native run-ios`
 
-> Caso o seu o nome do seu aplicativo tenha espaços, [aqui](https://stackoverflow.com/questions/38548898/how-to-add-space-in-react-native-application-name) tem um breve tutorial de como você pode renomear ele.
+> Caso o seu o nome do seu aplicativo tenha espaços [aqui](https://stackoverflow.com/questions/38548898/how-to-add-space-in-react-native-application-name) tem um breve tutorial de como você pode renomear ele.
