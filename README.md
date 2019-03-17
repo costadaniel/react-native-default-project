@@ -30,7 +30,7 @@ Após a adição das extensões, você deve alterar o arquivo de configurações
 1.  Clone ou baixe os arquivos do repositório (pode ser [aqui](https://github.com/costadaniel/react-native-default-project/archive/master.zip))
 1.  Copie a pasta "rndp" para onde você quiser
 1.  Renomeie o projeto para o nome desejado editando o _"name"_ e _"displayName"_ no arquivo "app.json"
-1.  Dentro dela dê os seguintes comandos
+1.  Dentro da pasta dê os seguintes comandos
     1. `yarn`
     1. `react-native eject`
 1.  Rode o projeto usando `react-native run-android` ou `react-native run-ios`
