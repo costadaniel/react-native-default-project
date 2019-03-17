@@ -2,7 +2,7 @@
 
 Projeto padrão do React Native, com alguns pacotes adicionais pré-instalados e configurados para facilitar a criação de projetos futuros.
 
-## Pacotes Adicionais
+## Pacotes Adicionais Instalados
 
 - [EditorConfig](https://editorconfig.org/)
 - [Reactotron](https://github.com/infinitered/reactotron)
@@ -14,7 +14,7 @@ Projeto padrão do React Native, com alguns pacotes adicionais pré-instalados e
 
 ## Configurações Adicionais
 
-Caso você esteja utilizando o VS Code você vai precisar instalar algumas extensões nele como:
+Caso você esteja utilizando o VS Code você vai precisar instalar as seguintes extensões:
 
 - [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
